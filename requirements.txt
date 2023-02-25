@@ -10,5 +10,3 @@ gunicorn
 dash-tools
 datetime
 chat_downloader
-time
-typing
