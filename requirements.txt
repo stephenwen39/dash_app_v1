@@ -9,4 +9,3 @@ typing_extensions==4.4.0
 gunicorn
 dash-tools
 chat_downloader
-time
